@@ -1,5 +1,4 @@
-### Hi there 👋
-<hr border-bottom="1px solid" />
+<h1 border-bottom="1px solid">Hi there 👋</h1>
 
 My name is Guilherme Henrique and i'm a Brazilian 🇧🇷 front-end developer. I'm passionate about learning and experimenting with new technologies and love to build applications with JavaScript or TypeScript, HTML, CSS and Tailwind CSS.
 
