@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Guilherme Henrique!
+
+<strong>Front-end Developer</strong>
 
 <hr />
 
