@@ -13,6 +13,8 @@ I love to work with React, Next and Laravel. I also have some experience with Ta
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-1572B6?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-yellow?style=for-the-badge&logo=electron&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ## 📬 Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devggui/)
